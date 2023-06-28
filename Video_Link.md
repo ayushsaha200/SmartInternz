@@ -16,6 +16,6 @@ Phone No: +91 8879701402
 Campus: VIT Vellore
 
 
-Drive Link for Video Demonstration: 
+Drive Link for Video Demonstration: https://drive.google.com/file/d/1vuZszxTmjmjbSPc5-seDdqxP_BASZsJS/view?usp=sharing
 
 NOTE: READ Flask Instructions.md TO RUN THE PROJECT. 
