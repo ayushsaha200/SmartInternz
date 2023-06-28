@@ -2,11 +2,17 @@
 Applied Data Science - Project
 
 Title: Machine Learning-Based Music Genre Classification on Spotify Data 
+
 Name: Ayush Saha
+
 Reg No: 20BDS0273
+
 Email: ayush.saha2020@vitstudent.ac.in
+
 Campus: VIT Vellore 
+
 Phone: +91 8879701402
+
 
 Since Github does not support file upload of more than 25 MB, please find the drive link to the flask folder below. 
 
