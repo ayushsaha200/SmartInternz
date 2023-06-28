@@ -18,4 +18,4 @@ Instructions
 3. Download Spotipy library (pip install spotipy) before running the flask application. 
 4. Run app.py
 
-NOTE: Make sure rfc.pkl is there in the folder.
+NOTE: Make sure rfc.pkl is there in the folder, .pkl file will be generated after running the .ipynb project file. 
