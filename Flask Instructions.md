@@ -13,8 +13,9 @@ Since Github does not support file upload of more than 25 MB, please find the dr
 https://drive.google.com/file/d/1Q2VjIPYjiaBZrpOLiDnCjIQy2sDr1GUc/view?usp=sharing
 
 Instructions
-1. Download the .zip file
-2. Extract the Spotify(2) Folder
-3. Run app.py
+1. Download the .zip file.
+2. Extract the Spotify(2) Folder.
+3. Download Spotipy library (pip install spotipy) before running the flask application. 
+4. Run app.py
 
 NOTE: Make sure rfc.pkl is there in the folder.
